@@ -55,10 +55,6 @@ The individual summaries are combined to form a coherent summary of the entire t
 Finally, the original transcription and the combined summary are displayed for comparison.
 
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ### [Kaggle](https://www.kaggle.com/code/hrishk/openai-whisper/notebook)
 
 ## Acknowledgements
